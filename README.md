@@ -24,6 +24,14 @@ Raspberry Pi (edge deployment)
 
 💡 This project helped me dive deeper into embedded AI, real-time optimization, and full-stack integration for edge computing.
 
-Looking forward to building on this and exploring more real-world CV appl
-ications!
+Looking forward to building on this and exploring more real-world CV applications!
+
+
+https://github.com/user-attachments/assets/82b9f3a4-fb3a-4f21-b682-fce6cac39eb5
+
+
+
+
+
+
 
