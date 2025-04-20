@@ -12,8 +12,8 @@ import mysql.connector
 MODEL_PATH = '/Users/adityasharma/Desktop/embedded/airplanedetection.pt'  
 IP_CAM_URL = 'http://192.168.26.16:8080/video'
 MYSQL_CONFIG = {
-    'host': '192.168.169.16',  
-    'user': 'root',       
+    'host': '192.168.169.16',  # add ip address of your host
+    'user': 'root',       # add username of your pi created and connected to mysql
     'password': 'adit',
     'database': 'airplane_detection'
 }
